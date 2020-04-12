@@ -1,5 +1,5 @@
 
-# Solving Programming Challenges
+# Dynamic Arrays and Amortized Analysis
 
 1. Let's imagine we add support to our dynamic array for a new operation PopBack (which        removes the last element), and that PopBack never reallocates the associated dynamically-    allocated array. Calling PopBack on an empty dynamic array is an error.
 
